@@ -1,0 +1,17 @@
+{
+    "fname":"Jane",
+    "lname":"Doe",
+    "hobbies":["running","swimming","reading"],
+    "age":28,
+    "hasChilderen":true,
+    "childeren":[
+        {
+            "fname":"Alex",
+            "age":5
+        },
+        {
+            "fname":"Bob",
+            "age":7
+        }
+    ]
+}

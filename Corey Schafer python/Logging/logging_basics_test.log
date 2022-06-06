@@ -1,0 +1,12 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Subtract: 10 + 5 = 5
+DEBUG:root:Multiply: 10 + 5 = 50
+DEBUG:root:Divide: 10 + 5 = 2.0
+2022-03-22 18:29:46,529: DEBUG: Add: 50 + 5 = 55
+2022-03-22 18:29:46,529: DEBUG: Subtract: 50 + 5 = 45
+2022-03-22 18:29:46,530: DEBUG: Multiply: 50 + 5 = 250
+2022-03-22 18:29:46,530: DEBUG: Divide: 50 + 5 = 10.0
+2022-03-22 19:44:54,346: DEBUG: Add: 50 + 5 = 55
+2022-03-22 19:44:54,360: DEBUG: Subtract: 50 + 5 = 45
+2022-03-22 19:44:54,360: DEBUG: Multiply: 50 + 5 = 250
+2022-03-22 19:44:54,360: DEBUG: Divide: 50 + 5 = 10.0

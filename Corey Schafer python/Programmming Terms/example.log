@@ -1,0 +1,4 @@
+INFO:root:Runnig 'add_nums' with arguments (3, 4)
+INFO:root:Runnig 'add_nums' with arguments (4, 5)
+INFO:root:Runnig 'sub_nums' with arguments (10, 15)
+INFO:root:Runnig 'sub_nums' with arguments (10, 20)
